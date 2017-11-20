@@ -22,7 +22,7 @@ namespace ExpertFinderWeb.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. Testing github";
 
             return View();
         }
